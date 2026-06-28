@@ -34,3 +34,16 @@ Makefile
 # Generated artifacts
 output.pcap
 output_test.pcap
+
+# Visual Studio build folders
+Debug/
+Release/
+x64/
+x86/
+
+# CMake
+compile_commands.json
+
+# Windows
+Thumbs.db
+Desktop.ini
