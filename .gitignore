@@ -1,0 +1,36 @@
+# Build outputs
+build/
+bin/
+out/
+cmake-build-*/
+CMakeFiles/
+CMakeCache.txt
+*.cmake
+Makefile
+
+# Compiled binaries and libraries
+*.exe
+*.dll
+*.so
+*.dylib
+*.o
+*.obj
+*.pdb
+*.ilk
+
+# IDE / editor files
+.vs/
+.vscode/
+*.user
+*.suo
+*.VC.db
+*.opendb
+
+# Logs and temp files
+*.log
+*.tmp
+*.temp
+
+# Generated artifacts
+output.pcap
+output_test.pcap
